@@ -712,11 +712,6 @@
 
 int main()
 {
-	int ch = 0;
-	while (true)
-	{
-
-	}
-	int ch = getchar();
+	
 	return 0;
 }
