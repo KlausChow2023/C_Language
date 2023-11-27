@@ -930,3 +930,5 @@ int mian()
 	int b = 1;
 	return 0;
 }
+
+add , commit,  push 
